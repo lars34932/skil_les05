@@ -1,22 +1,22 @@
-# recept
+# Recept
 
 ![afbeelding recept](https://static.ah.nl/static/recepten/img_085892_890x_JPG.jpg)
 
-## benodigdheden
+## Renodigdheden
 
-* 2 tenen knoflook
-* 2 uien
-* 2 dunne preien
-* 300 g winterpenen
+* 2 Tenen knoflook
+* 2 Uien
+* 2 Dunne preien
+* 300 g Winterpenen
 * 2 el (olijf)olie
-* 3 tl italiaanse kruiden
-* 300 grundertartaartjes
-* ½ kippenbouillontablet minder zout
-* 300 g volkorenspaghetti
-* 800 g tomatenblokjes
-* 80 g geraspte belegen 30+ kaas
+* 3 tl Italiaanse kruiden
+* 300 Grundertartaartjes
+* ½ Kippenbouillontablet minder zout
+* 300 g Volkorenspaghetti
+* 800 g Tomatenblokjes
+* 80 g Geraspte belegen 30+ kaas
 
-## berijding
+## Berijding
 
 * Snijd de knoflook fijn en snipper de uien.  
 * Was de prei en snijd in dunne ringen.  
