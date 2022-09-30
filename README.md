@@ -2,7 +2,7 @@
 
 ![afbeelding recept](https://static.ah.nl/static/recepten/img_085892_890x_JPG.jpg)
 
-## Renodigdheden
+## Benodigdheden
 
 * 2 Tenen knoflook
 * 2 Uien
